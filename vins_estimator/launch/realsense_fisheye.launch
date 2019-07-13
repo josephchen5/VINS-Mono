@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <launch>
     <arg name="config_path" default = "$(find feature_tracker)/../config/realsense/realsense_fisheye_config.yaml" />
 	  <arg name="vins_path" default = "$(find feature_tracker)/../config/../" />
